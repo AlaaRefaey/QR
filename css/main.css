@@ -1,0 +1,24 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+.box {
+  margin: 100px auto;
+  width: 400px;
+  border-radius: 15px;
+  background-color: white;
+}
+img {
+  padding: 20px;
+  border-radius: 30px;
+}
+p {
+  font-size: 25px;
+  font-weight: 700;
+  width: 300px;
+  margin: auto;
+}
+h6 {
+  width: 300px;
+  font-size: 17px;
+  margin: auto;
+}
